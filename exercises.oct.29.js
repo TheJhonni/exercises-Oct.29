@@ -2,7 +2,7 @@
  Write a function called "area" which receives 2 parameters (l1, l2) and calculates the area of the associated rectangle.
 */
 
-/*let l1 = 2
+let l1 = 2
 let l2 = 4
 function area(l1, l2) {
     let result = l1 * l2
